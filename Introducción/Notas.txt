@@ -1,0 +1,6 @@
+---- Notas ----
+Para crear "Busquedas guardadas" usar: Informes -> Busquedas guardadas -> Todas las busquedas guardadas -> Nuevo
+
+---- Clase01 - Customizing Standar Reports ----
+Informe guardado: JEL | CSR | 01a Customer Credit Limit Liability
+Informe guardado: JEL | CSR | 01b Transaction Detail by X Type
